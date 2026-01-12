@@ -2,6 +2,7 @@ using Rubicon.Application;
 using Rubicon.Infrastructure;
 using Rubicon.Persistence;
 using Rubicon.Presentation;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +25,7 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
+    app.MapScalarApiReference();
 }
 
 app.UseHttpsRedirection();
