@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Rubicon.Application/Rubicon.Application.csproj" />
+    <Project Path="Rubicon.Domain/Rubicon.Domain.csproj" />
+    <Project Path="Rubicon.Infrastructure/Rubicon.Infrastructure.csproj" />
+    <Project Path="Rubicon.Persistence/Rubicon.Persistence.csproj" />
+    <Project Path="Rubicon.Presentation/Rubicon.Presentation.csproj" />
+    <Project Path="Rubicon.WebAPI/Rubicon.WebAPI.csproj" />
+  </Folder>
+</Solution>
