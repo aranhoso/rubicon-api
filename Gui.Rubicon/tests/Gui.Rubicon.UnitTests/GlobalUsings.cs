@@ -1,0 +1,9 @@
+﻿global using System.Runtime.CompilerServices;
+global using Ardalis.SharedKernel;
+global using Gui.Rubicon.Core.ContributorAggregate;
+global using Gui.Rubicon.UseCases.Contributors.Create;
+global using Shouldly;
+global using Mediator;
+global using Microsoft.Extensions.Logging;
+global using NSubstitute;
+global using Xunit;
