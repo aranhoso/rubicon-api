@@ -52,8 +52,3 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-*.vsidx
-/Gui.Rubicon/.vs/Gui.Rubicon.slnx/FileContentIndex/6460ae33-fb7d-41e3-b87a-d7fb9a71bb72.vsidx
-/Gui.Rubicon/.vs/Gui.Rubicon.slnx/v18/.suo
-/Gui.Rubicon/.vs/Gui.Rubicon.slnx/v18
-/Gui.Rubicon/.vs/Gui.Rubicon.slnx/v18/DocumentLayout.backup.json
