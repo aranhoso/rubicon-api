@@ -51,7 +51,8 @@
               "RelativeToolTip": "src\\Gui.Rubicon.Web\\wwwroot\\.gitkeep",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-12T04:10:36.187Z"
+              "WhenOpened": "2026-01-12T04:10:36.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,7 +64,8 @@
               "RelativeToolTip": ".aspire\\settings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-12T04:08:51.178Z"
+              "WhenOpened": "2026-01-12T04:08:51.178Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -75,7 +77,8 @@
               "RelativeToolTip": "CONTRIBUTING.md",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-01-12T04:07:39.511Z"
+              "WhenOpened": "2026-01-12T04:07:39.511Z",
+              "EditorCaption": ""
             }
           ]
         }
